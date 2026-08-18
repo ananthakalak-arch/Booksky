@@ -116,6 +116,6 @@ Some features that can be added in future versions:
 
 If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub.
 
----
+--
 
 ### 📚 Booksky — A simple project built to strengthen frontend development skills.
